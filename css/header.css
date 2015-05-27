@@ -1,0 +1,128 @@
+@font-face{
+src:url('../fonts/fontello2.ttf');
+font-family:'fontello2';
+}
+@font-face{
+src:url('../fonts/Lato-Lig.ttf');
+font-family:'LatoLight';
+}
+@font-face{
+src:url('../fonts/Lato-Bol.ttf');
+font-family:'LatoBold';
+}
+@font-face{
+src:url('../fonts/Montserrat-Bold.ttf');
+font-family:'MontserratBold';
+}
+.header{
+height:100px;
+width:100%;
+background:#143259;
+}
+.header_container{
+min-height:45px;
+width:100%;
+background:rgba(0,0,0,.09);
+}
+.header_container ul{
+list-style-type:none;
+}
+.header_list{
+float:left;
+padding:11px 21px;
+cursor:pointer;
+position:relative;
+}
+.header_list:after{
+position:absolute;
+top:11px;
+right:13px;
+font-family:'fontello';
+content:'';
+}
+.header_list_clear{
+clear:both;
+width:0px;
+height:0px;
+}
+.header_left{
+float:left;
+width:30%;
+overflow:hidden;
+height:100px;
+}
+.header_right{
+float:left;
+width:70%;
+height:100px;
+}
+.header_clear{
+height:0px;
+width:0px;
+clear:both;
+}
+.header_right_list{
+color:#fff;
+margin-right:18px;
+font-family:'MontserratBold';
+text-decoration:none;
+
+transition:all .2s ease;
+-webkit-transition:all .2s ease;
+-moz-transition:all .2s ease;
+-o-transition:all .2s ease;
+-ms-transition:all .2s ease;
+}
+.header_right_list:hover{
+color:#1ebcfa;
+}
+.header_search_input{
+padding:8px 21px;
+font-size:14px;
+font-family:'LatoLight';
+border:1px solid rgba(0,0,0,.13);
+margin-top:13px;
+width:330px;
+
+}
+.header_right_top{
+padding:8px 0px;
+}
+.header_left_inner{
+padding:31px 0px;
+font-size:32px;
+font-family:'MontserratBold';
+color:#fff;
+padding-left:52px;
+}
+.header_search_button{
+background:#fdd922;
+color:#000;
+border:none;
+font-family:'LatoLight';
+font-size:14px;
+padding:9px 14px;
+cursor:pointer;
+}
+.cart_button{
+background:#39183F;
+color:#fff;
+font-family:'LatoLight';
+font-size:14px;
+padding:9px 13px;
+cursor:pointer;
+border:none;
+margin-left:22px;
+background:rgb(0,127,184);
+position:relative;
+padding-left:38px;
+}
+.cart_button:after{
+position:absolute;
+top:11px;
+left:12px;
+font-size:16px;
+font-family:'fontello2';
+color:#fff;
+content:'\e83b';
+}
