@@ -1,4 +1,4 @@
-# ccd
+# Conversion Centered Design
 
 [LISTING PAGE](www.amituslab.com/github/ccd/listing.html)
 
