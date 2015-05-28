@@ -1,4 +1,8 @@
 # ccd
+
+[LISTING PAGE](www.amituslab.com/github/ccd/listing.html)
+[PRODUCT PAGE](www.amituslab.com/github/ccd/product.html)
+
 A conversion centered design example(using a sunglasses based ecommerce website as the theme), designed with following principles:
 
 (1)Contrast and Color
