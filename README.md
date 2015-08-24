@@ -6,16 +6,16 @@
 
 A conversion centered design example(using a sunglasses based ecommerce website as the theme), designed with following principles:
 
---1.Contrast and Color
+--*Contrast and Color
 
---2.Call-to-action position and appearance
+--*Call-to-action position and appearance
 
---3.Directional Cues
+--*Directional Cues
 
---4.Whitespace
+--*Whitespace
 
---5.Urgency
+--*Urgency
 
---6.Try before you buy
+--*Try before you buy
 
---7.Social Proof
+--*Social Proof
